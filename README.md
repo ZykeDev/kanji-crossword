@@ -1,1 +1,3 @@
-# kanji-crossword
+# Kanji Crossword
+
+Work in progress
